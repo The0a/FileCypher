@@ -1,0 +1,13 @@
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.csprojAssemblyReference.cache
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.AssemblyInfoInputs.cache
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.AssemblyInfo.cs
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.csproj.CoreCompileInputs.cache
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.exe
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.deps.json
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.runtimeconfig.json
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.runtimeconfig.dev.json
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.dll
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\bin\Debug\netcoreapp3.1\FileCypher.pdb
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.dll
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.pdb
+D:\Projets visual studio\FileCypher\FileCypher\FileCypher\obj\Debug\netcoreapp3.1\FileCypher.genruntimeconfig.cache
